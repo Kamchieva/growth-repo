@@ -1,4 +1,4 @@
-num1 = input("Enter a number: ")
-num2 = input("Enter another number: ")
-result = float(num1) / float(num2)
-print(result)
+lucky_numbers =[2, 3, 5, 7, 9]
+friends = ["Nurik", "Gulnur", "Gigi", "Moontaha"]
+lucky_numbers.reverse()
+print(lucky_numbers)
